@@ -1,7 +1,8 @@
 # Music Streaming Price Bible Chart
 
 This Chart represents Music Streaming Price payable to Artist or Label via digital distributor.
-Data are from 2019-2020 Streaming Price Bible from @thetrichordist ; https://thetrichordist.com
+
+Data are from 2019-2020 Streaming Price Bible from [thetrichordist](https://thetrichordist.com/2020/03/05/2019-2020-streaming-price-bible-youtube-is-still-the-1-problem-to-solve/)
 
 ## Getting Started
 
@@ -13,11 +14,14 @@ Data are from 2019-2020 Streaming Price Bible from @thetrichordist ; https://the
 ### Usage
 
 1. Get sources
-	* ` git clone https://github.com/ghoebilly/music-streaming-price-bible-chart `
+	* ` git clone https://github.com/ghoebilly/music-streaming-price-bible-chart.git `
+    * or just donwload index.html and data.csv
 2. Run index.html with any webserver
     * To use these sources with the npm package that use lite-server dependency :
-    * ` npm install `
-    * ` npm start `
+    ```
+    npm install
+    npm start 
+    ```
 
 ## Versioning
 
