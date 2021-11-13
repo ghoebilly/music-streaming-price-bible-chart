@@ -10,17 +10,18 @@ Data are from 2019-2020 Streaming Price Bible from [thetrichordist](https://thet
 
 * Any webserver so that the index.html is able to access data.csv
 * Web access to d3js v4 libraries (https://d3js.org/)
+* [NodeJS](https://nodejs.org/en/download/) to run these sources with the npm package and lite-server
 
 ### Usage
 
 1. Get sources
 	* ` git clone https://github.com/ghoebilly/music-streaming-price-bible-chart.git `
-    * or just donwload index.html and data.csv
+    * or just download index.html and data.csv
 2. Run index.html with any webserver
-    * To use these sources with the npm package that use lite-server dependency :
+    * To use these sources with the npm package (NodeJS required) that use lite-server dependency :
     ```
     npm install
-    npm start 
+    npm start
     ```
 
 ## Versioning
