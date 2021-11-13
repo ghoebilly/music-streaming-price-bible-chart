@@ -14,6 +14,12 @@ Data are from 2019-2020 Streaming Price Bible from [thetrichordist](https://thet
 
 ### Usage
 
+#### Online
+
+Open the Chart with [githack](https://rawcdn.githack.com/ghoebilly/music-streaming-price-bible-chart/main/index.html).
+
+#### Running your own
+
 1. Get sources
 	* ` git clone https://github.com/ghoebilly/music-streaming-price-bible-chart.git `
     * or just download index.html and data.csv
